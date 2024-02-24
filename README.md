@@ -16,12 +16,18 @@ This Hospital Management System is a Python-based application designed to stream
 
 ### Installation
 - Install Python 3.12.1 (https://www.python.org/) and chosen GUI framework (Tkinter).
+- Clone the repository : `git clone https://github.com/your_username/hospital-management-system.git`
+- Navigate to the project directory : `cd Hospital Management System (HMS)`
+- Install Dependencies : `pip install -r requirements.txt`
 
 ### Usage
 - Execute the main script (Main.py).
 - Make sure to run Main.py from Hospital Management System (HMS) Folder
-
+- 
 ### Future Enhancment
 - Expand ChatGPT integration for more sophisticated diagnostics and treatment recommendations.
 - The system can be converted into an executable file using tools like PyInstaller or cx_Freeze for distribution and real-world implementation.
+
+### Contributors
+- Birat Gautam `biratgautam09@gmail.com`
 
